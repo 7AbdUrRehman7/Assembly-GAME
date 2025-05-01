@@ -1,4 +1,4 @@
-# 🕹️ MIPS Platformer Game – CSCB58 Winter 2025
+# 🕹️ MIPS Platformer Game
 
 ## 🎮 Overview
 This is a classic single-screen platformer game built using **MIPS assembly language** in the **MARS simulator** environment for the CSCB58 final project. The player controls a character that moves horizontally and vertically (by jumping), interacts with platforms, avoids enemies and reaches the finish line before all the health drains out!.
