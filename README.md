@@ -32,10 +32,10 @@ This is a classic single-screen platformer game built using **MIPS assembly lang
 👉 [Video Link Here](https://play.library.utoronto.ca/watch/23423fcb1f1ee4b34b22ec09feaac13c)
 
 ## 🙋 Author
-**Student Name:** Abd-Ur-Rehman 
+**Student Name:** Abd-Ur-Rehman  
 **Student Number:** 1009065510  
 **UTorID:** rehma163  
-**Email:** abdurrehman.abd@@mail.utoronto.ca
+**Email:** abdurrehman.abd@mail.utoronto.ca
 
 ---
 
