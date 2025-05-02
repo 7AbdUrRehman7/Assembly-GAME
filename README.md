@@ -1,7 +1,7 @@
 # 🕹️ MIPS Platformer Game
 
 ## 🎮 Overview
-This is a classic single-screen platformer game built using **MIPS assembly language** in the **MARS simulator** environment for the CSCB58 final project. The player controls a character that moves horizontally and vertically (by jumping), interacts with platforms, avoids enemies and reaches the finish line before all the health drains out!.
+This is a classic single-screen platformer game built using MIPS assembly language in the MARS simulator environment for the CSCB58 final project. The player controls a character that moves horizontally and vertically (by jumping), interacts with platforms, avoids enemies, and reaches the finish line before all the health drains out!
 
 ## 📁 Files
 - `game.asm` – Main source code in MIPS assembly.
@@ -24,7 +24,7 @@ This is a classic single-screen platformer game built using **MIPS assembly lang
 ## 🕹️ Controls
 - `A` – Move left  
 - `D` – Move right  
-- `W` – Jump or climb up  
+- `W` – Jump  
 - `R` – Restart game  
 - `Q` – Quit game  
 
