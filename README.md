@@ -5,7 +5,6 @@ This is a classic single-screen platformer game built using MIPS assembly langua
 
 ## 📁 Files
 - `game.asm` – Main source code in MIPS assembly.
-- `README.md` – This documentation file.
 
 ## 🛠️ Setup Instructions
 1. Open MARS (MIPS Assembler and Runtime Simulator).
