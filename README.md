@@ -21,9 +21,9 @@ This is a classic single-screen platformer game built using MIPS assembly langua
    - Go (`F5`)
 
 ## 🕹️ Controls
-- `A` – Move left  
-- `D` – Move right  
-- `W` – Jump  
+- Spam `A` – Move left  
+- Spam `D` – Move right  
+- `W` – Jump/Double Jump  
 - `R` – Restart game  
 - `Q` – Quit game  
 
